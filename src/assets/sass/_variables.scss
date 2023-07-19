@@ -1,0 +1,31 @@
+
+
+// Project theme colors
+$primary: #522819ff;
+$secondary: #aba486ff;
+$success: #5b9411;
+$info: #634335ff;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: rgb(225, 226, 207);
+$dark: #171410ff;
+
+//////////////////////////////////////////////////////////////////////
+//////////////// Bootstrap variable overrides ////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+
+
+// Map my project theme colors into Bootstrap
+$theme-colors: (
+	"primary": $primary,
+	"secondary": $secondary,
+	"success": $success,
+	"info": $info,
+	"warning": $warning,
+	"danger": $danger,
+	"light": $light,
+	"dark": $dark
+);
+
+
