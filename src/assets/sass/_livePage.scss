@@ -1,3 +1,9 @@
 .bg-live{
     background-image: url(../images/bgSlate.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+}
+.bg-overlay-dark{
+    background: #00000086;
 }
