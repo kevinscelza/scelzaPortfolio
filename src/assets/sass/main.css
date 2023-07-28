@@ -12038,4 +12038,10 @@ textarea.form-control-lg {
 
 .bg-overlay-dark {
   background: rgba(0, 0, 0, 0.5254901961);
+}
+
+.bg-create {
+  background-image: url(../images/bgBrickGreyStyle.jpg);
+  background-size: cover;
+  background-position: right;
 }/*# sourceMappingURL=main.css.map */

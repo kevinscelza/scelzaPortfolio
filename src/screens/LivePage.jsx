@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 function LivePage() {
   return (
     <div className="bg-live min-vh-100">
-      <div className=" container pt-5">
+      <div className=" container py-5">
         <nav className="row">
           <div className="col-lg-4 d-flex align-items-center justify-content-center">
             <NavLink
@@ -15,7 +15,7 @@ function LivePage() {
           </div>
           <div className="col-lg-4 d-flex align-items-center justify-content-center">
             <NavLink
-              to="/"
+              to="/create"
               className="text-grunge text-nav-md text-light text-decoration-none text-shadow-nav-md"
             >
               Create
@@ -36,7 +36,7 @@ function LivePage() {
               About
             </h1>
           </div>
-          <div className="col-lg-6 text-light bg-overlay-dark mt-4">
+          <div className="col-lg-6 text-light bg-overlay-dark mt-4 p-3">
             <p className="text-justify text-fix">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Id ipsum
               iste quasi doloremque repudiandae architecto alias laborum
@@ -66,7 +66,7 @@ function LivePage() {
               veritatis tempora, fugiat illo
             </p>
           </div>
-          <div className="col-lg-6 text-light bg-overlay-dark mt-4">
+          <div className="col-lg-6 text-light bg-overlay-dark mt-4 p-3">
             <p className="text-justify text-fix">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Id ipsum
               iste quasi doloremque repudiandae architecto alias laborum
