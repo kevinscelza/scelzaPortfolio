@@ -18,7 +18,7 @@ function CreatePage() {
           </div>
           <div className="col-12 text-center">
             <NavLink
-              to="/"
+              to="/art"
               className="text-grunge text-nav-lg text-light text-decoration-none text-shadow-nav-lg"
             >
           ART
@@ -26,7 +26,7 @@ function CreatePage() {
           </div>
           <div className="col-12 text-center">
             <NavLink
-              to="/create"
+              to="/wood"
               className="text-grunge text-nav-lg text-light text-decoration-none text-shadow-nav-lg"
             >
      WOOD
@@ -34,7 +34,7 @@ function CreatePage() {
           </div>
           <div className="col-12 text-center">
             <NavLink
-              to="/"
+              to="/tattoo"
               className="text-grunge text-nav-lg text-light text-decoration-none text-shadow-nav-lg
               "
             >

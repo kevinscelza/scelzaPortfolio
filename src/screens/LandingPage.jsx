@@ -3,9 +3,9 @@ import {NavLink} from "react-router-dom";
 
 function LandingPage() {
   return (
- <div className="bg-landing  container-fluid">
+ <div className="bg-landing  container-fluid min-vh-100 d-flex flex-column justify-content-around">
    <div className="row">
-    <div className="col-6 d-flex  min-vh-100 justify-content-center align-items-center">
+    <div className="col-6 d-flex  justify-content-center align-items-center">
       
         <img src="./assets/images/me.png" alt=""   />
     </div>

@@ -12022,7 +12022,7 @@ textarea.form-control-lg {
 }
 
 .text-shadow-nav-lg {
-  text-shadow: -11px 7px black;
+  text-shadow: -7px 7px black;
 }
 
 .text-justify {
@@ -12044,4 +12044,21 @@ textarea.form-control-lg {
   background-image: url(../images/bgBrickGreyStyle.jpg);
   background-size: cover;
   background-position: right;
+}
+
+.bg-art {
+  background-image: url(../images/bgBrickStudio.jpg);
+  background-size: cover;
+}
+
+.trans {
+  filter: opacity(75%);
+}
+
+.video-width {
+  width: 95%;
+}
+
+.gallery-height {
+  height: 80vh;
 }/*# sourceMappingURL=main.css.map */
