@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Graffiti";
+    src: url(../font/Graffiti.ttf);
+}
+@font-face {
+    font-family: "Hard Grunge";
+    src: url(../font/Hard\ Grunge.ttf);
+}
+ 
+.text-graffiti{
+    font-family: 'Graffiti';
+}
+.text-grunge{
+    font-family: 'Hard Grunge';
+}
+.text-fix{
+    font-size: 24px;
+}
+.text-nav-lg{
+    font-size: 150px;
+}
+.text-nav-md{
+    font-size: 100px;
+}
+.text-nav-sm{
+    font-size: 50px;
+}
+.text-shadow-nav-md{
+    text-shadow: -8px 6px black;
+}
+.text-shadow-nav-lg{
+    text-shadow: -7px 7px black;
+}
+.text-justify{
+   text-align: justify;
+}
