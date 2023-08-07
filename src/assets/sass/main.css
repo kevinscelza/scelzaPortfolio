@@ -12046,6 +12046,11 @@ textarea.form-control-lg {
   background-position: right;
 }
 
+.bg-work {
+  background-image: url(../images/bgBrickTurq.jpg);
+  background-size: cover;
+}
+
 .bg-art {
   background-image: url(../images/bgBrickStudio.jpg);
   background-size: cover;

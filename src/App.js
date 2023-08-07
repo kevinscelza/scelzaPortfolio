@@ -6,6 +6,8 @@ import CreatePage from "./screens/CreatePage";
 import ArtGallery from "./screens/ArtGallery";
 import TattooGallery from "./screens/TattooGallery";
 import WoodGallery from "./screens/WoodGallery";
+import WorkPage from "./screens/WorkPage";
+
 
 function App() {
   return (
@@ -16,6 +18,7 @@ function App() {
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/live" element={<LivePage />} />
+        <Route path="/work" element={<WorkPage />} />
         <Route path="/create" element={<CreatePage />} />
         <Route path="/art" element={<ArtGallery />} />
         <Route path="/tattoo" element={<TattooGallery />} />
