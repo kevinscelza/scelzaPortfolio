@@ -23,7 +23,7 @@ function LivePage() {
           </div>
           <div className="col-lg-4 d-flex align-items-center justify-content-center">
             <NavLink
-              to="/"
+              to="/work"
               className="text-grunge text-nav-md text-light text-decoration-none text-shadow-nav-md"
             >
              Work

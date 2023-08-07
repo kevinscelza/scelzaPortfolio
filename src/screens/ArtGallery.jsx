@@ -26,7 +26,7 @@ function ArtGallery() {
             </video>
           </div>
         </div>
-        <div className="row">
+        <div className="row mt-5">
           <div className="col-lg-6 d-flex justify-content-center">
             <NavLink
               className="text-decoration-none  text-grunge text-nav-md text-light text-shadow-nav-lg"
